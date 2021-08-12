@@ -2,10 +2,7 @@
  Snake Game in C++
  Using **graphics.h** header
 
-## IDE USED
- Code::Blocks *version* 16.01
-
-## AUTHOR
+## Coded by
  *Harshit Sharma*
 
 ## Screenshots
